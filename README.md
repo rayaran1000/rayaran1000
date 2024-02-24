@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rayaran1000/rayaran1000/output/snake.svg" alt="Snake animation" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayaran1000&show_icons=true&locale=en&layout=compact" alt="rayaran1000" /></p>
