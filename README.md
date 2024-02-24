@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aranya.ray1998@gmail.com**
 
-- ⚡ Fun fact **I like to play CS2 and Apex legends in my free time**
+- ⚡ Fun fact **I like to play Video games in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
