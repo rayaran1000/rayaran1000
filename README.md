@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I like to play Video games in my free time**
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![productive](https://github.com/rayaran1000/rayaran1000/assets/122597408/cfb064b2-ed0c-49d4-ab9c-44f91dca113f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
