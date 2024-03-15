@@ -2,9 +2,8 @@
 
 ###
 
-- 🌱 I’m currently learning **Generative AI**
-
 <img align="right" width="200" height="200" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/194d6b4a-e92d-4360-945c-ebc9810ce151" alt="brainm.gif"></a>
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **LLM and Computer Vision Projects**
 
@@ -13,8 +12,6 @@
 - 📫 How to reach me **aranya.ray1998@gmail.com**
 
 - ⚡ Fun fact **I like to play Video games in my free time**
-
-
 
 ![productive](https://github.com/rayaran1000/rayaran1000/assets/122597408/cfb064b2-ed0c-49d4-ab9c-44f91dca113f)
 
