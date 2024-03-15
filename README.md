@@ -3,8 +3,8 @@
 ###
 
 - 🌱 I’m currently learning **Generative AI**
-- 
-- <img align="right" width="150" height="150" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/194d6b4a-e92d-4360-945c-ebc9810ce151" alt="brainm.gif"></a>
+
+<img align="right" width="150" height="150" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/194d6b4a-e92d-4360-945c-ebc9810ce151" alt="brainm.gif"></a>
 
 - 👯 I’m looking to collaborate on **LLM and Computer Vision Projects**
 
