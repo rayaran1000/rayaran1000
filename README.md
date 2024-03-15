@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to play Video games in my free time**
 
-![productive](https://github.com/rayaran1000/rayaran1000/assets/122597408/cfb064b2-ed0c-49d4-ab9c-44f91dca113f)
+<img align="middle" width="180" height="180" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/cfb064b2-ed0c-49d4-ab9c-44f91dca113f" alt="brainm.gif"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
