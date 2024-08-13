@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aranya Ray and I'm a data scientist, from India</h2>
+<h2 align="left">Hi 👋! My name is Aranya Ray and I'm a Data scientist, from India</h2>
 
 ###
 
