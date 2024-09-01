@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Aranya Ray and I'm a Data scientist, from India</h2>
+<h2 align="left">Hi 👋! My name is Aranya Ray and I'm a AI Engineer, from India</h2>
 
 ###
 
 <img align="right" width="180" height="180" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/194d6b4a-e92d-4360-945c-ebc9810ce151" alt="brainm.gif"></a>
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently building **Generative AI** Products.
 
-- 👯 I’m looking to collaborate on **LLM and Computer Vision Projects**
+- 👯 I’m looking to collaborate on **LLM and Generative AI Projects**
 
 - 💬 Ask me about **Machine learning, Deep learning, Statistics**
 
