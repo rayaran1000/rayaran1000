@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aranya Ray and I'm an AI Engineer, from India</h2>
 
 ###
-</a>
+
 - 🌱 I’m currently building **Generative AI** Products.
 
 - 👯 I’m looking to collaborate on **LLM and Generative AI Projects**
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I like to play Video games in my free time**
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img alt="Coder GIF" height=550 width=800 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
