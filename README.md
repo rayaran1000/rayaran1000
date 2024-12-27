@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I like to play Video games in my free time**
 
-<img alt="Coder GIF" height=550 width=800 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+![codingjeff-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/db3ab9f9-9e90-49c9-8310-d59ac73529fb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
