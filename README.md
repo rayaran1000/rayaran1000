@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **I like to play Video games in my free time**
 
-<img align="middle" width="2000" height="800" src="https://github.com/rayaran1000/rayaran1000/assets/122597408/cfb064b2-ed0c-49d4-ab9c-44f91dca113f" alt="brainm.gif"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aranya-ray-46a635156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aranya-ray-46a635156/" height="30" width="40" /></a>
